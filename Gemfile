@@ -27,7 +27,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem "kramdown", ">= 2.3.1"
-gem "webrick"
 gem "activesupport", ">= 6.1.7.1"
 gem "rexml", ">= 3.2.8"
 gem "webrick", ">= 1.8.2"
